@@ -1,3 +1,4 @@
+<img align="center" alt="iKasperx" width="100%" src="https://media.giphy.com/media/eXjWqeqgcUSOwLxlyM/giphy.gif">
 <h1 align="center">Hi 👋, I'm Kasper</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 <img align="right" alt="iKasperx" width="400" src="https://media.giphy.com/media/jJEnYpfrjnC0j4gtqj/giphy.gif">
