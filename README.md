@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **API with different frameworks**
 
-- 📫 How to reach me **iKasperx@pm.me**
+- 📫 How to reach me **info@ikasperx.tech**
 
 - ⚡ I love **Bitcoin**
 
